@@ -1,0 +1,54 @@
+html,body{
+	background-color: #777;
+}
+
+#container{	
+	text-align: center;
+	margin: auto;
+	width: 1024px;
+}
+
+header, nav, footer{
+	background-color: #ebebeb;
+	padding: 30px;
+	margin: 10px;
+}
+
+#content{
+	height: 240px;
+	margin: 0px 10px;
+}
+
+aside, section{
+	background-color: #ebebeb;
+	padding: 30px;
+	height: 180px;
+	width: 43%;
+}
+
+section{
+	float: left;
+}
+
+aside{
+	float: right;
+}	
+
+article{
+	background-color: #777;
+	height: 150px;
+	padding: 5px;
+	margin-top:5px;
+	color: #ebebeb;
+}
+
+#para, #headings{
+	background-color: #ebebeb;
+	padding: 10px;
+	margin: 10px;
+	color: #777;
+}
+
+#headings{
+	font-weight: bold;
+}
